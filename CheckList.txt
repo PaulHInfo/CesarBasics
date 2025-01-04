@@ -1,5 +1,6 @@
 Tools list
 [X]Cesar
+[ ]Hasher
 [ ]RSA keys Gen
 [ ]Socket
 [ ]BC viewer - adresse de Vincent
