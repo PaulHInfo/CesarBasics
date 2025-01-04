@@ -9,6 +9,12 @@ def sha512Hash(data: str) -> str:
 def writInFile(data : str):
     #TODO
 
+def cryptFile(salt : str):
+    #TODO
+    
+def decryptFile(Key : str):
+    #TODO
+
 if __name__ == "__main__":
     texte = input("Entrez le txt : ")
     print("Texte à hasher :", texte)
