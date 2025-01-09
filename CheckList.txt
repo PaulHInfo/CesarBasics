@@ -1,6 +1,7 @@
 Tools list
 [X]Cesar
-[ ]Hasher
+[X]Hasher
+[C]File cryptor (AES) -> différentes choses à revoir
 [ ]RSA keys Gen
 [ ]Socket
 [ ]BC viewer - adresse de Vincent
