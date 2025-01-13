@@ -3,5 +3,5 @@ Tools list
 [X]Hasher
 [C]File cryptor (AES) -> différentes choses à revoir
 [ ]RSA keys Gen
-[ ]Socket
+[ ]SecSocket
 [ ]BC viewer - adresse de Vincent
